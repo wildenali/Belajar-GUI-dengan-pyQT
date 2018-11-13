@@ -13,10 +13,10 @@ if __name__== '__main__':
     form.move(300,300)
     form.setWindowTitle('GUI Sederhana')
 
-    label = QLabel('Hayy hay...')
+    label = QLabel('Hayy hay... cek')
     label.move(55,40)
     label.setParent(form)
 
     form.show()
 
-    a.exec()
+    a.exec_()
