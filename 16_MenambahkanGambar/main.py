@@ -19,8 +19,17 @@ class MainForm(QWidget):
         self.label1 = QLabel()
         self.label1.setText('Import Gambar dengan QLabel')
 
+        # ========== Cara Pertama
+        # self.label2 = QLabel()
+        # self.label2.setText('<img src="gambarini.png">')
+        # ========== End Cara Pertama
+
+        # ========== Cara Kedua
+        pixmap = QPixmap('gambaritu.png')
         self.label2 = QLabel()
-        self.label2.setText('<img src="gambarini.png">')
+        self.label2.setPixmap(pixmap)
+        # ========== End Cara Kedua
+
 
         layout = QVBoxLayout()
         layout.addWidget(self.label1)
