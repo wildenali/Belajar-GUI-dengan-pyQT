@@ -16,6 +16,7 @@ class MainForm(QWidget):
         self.setWindowTitle('ComboBox')
 
         self.combo = QComboBox()
+        # self.combo.setEditable(True)      # biar bisa di edit combo box nya
         for i in range(1,11):
             self.combo.addItem('Item ke-%d' %i)
 
