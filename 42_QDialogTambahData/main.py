@@ -80,10 +80,9 @@ class MainForm(QWidget):
         self.tableWidget.setColumnCount(2)
         columnHeaders = ['Bahasa Pemrograman', 'Nama Pencipta']
         self.tableWidget.setHorizontalHeaderLabels(columnHeaders)
-        # self.tableWidget.setTextAlignment(Qt.AlignHCenter)
-
-
-
+        self.tableWidget.horizontalHeader().setSectionResizeMode(0, QHeaderView.Stretch)
+        self.tableWidget.horizontalHeader().setSectionResizeMode(1, QHeaderView.Stretch)
+        # self.tableWidget.horizontalHeader().setStretchLastSection(True)
 
     def addRow(self, row, itemLabels=[]):
         for i in range(2):
