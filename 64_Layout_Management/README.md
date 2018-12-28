@@ -5,4 +5,7 @@
 ![alt text](64_2_BoxLayout/64_2_BoxLayout.png)
 
 64_3_GridLayout
-![alt text](64_3_GridLayout/64_3_GridLayout.png)`
+![alt text](64_3_GridLayout/64_3_GridLayout.png)
+
+64_4_Comment_Textedit
+![alt text](64_4_Comment_Textedit/64_4_Comment_Textedit.png)
