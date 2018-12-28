@@ -10,12 +10,11 @@ atau ./namafile.py
 </br>
 </br>
 
-57_statusbar</br>
+57_statusbar
 ![alt text](57_statusbar/StatusBar.png)
 
-</br>
 
-58_Menu_Sederhana</br>
+58_Menu_Sederhana
 ![alt text](58_Menu_Sederhana/MenuSederhana.png)
 
 </br>
