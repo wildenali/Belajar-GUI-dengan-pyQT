@@ -6,7 +6,9 @@ sudo python3 namafile.py
 
 atau ./namafile.py
 
-
+</br>
+</br>
+</br>
 
 
 63_Gabungan_57-62.png
