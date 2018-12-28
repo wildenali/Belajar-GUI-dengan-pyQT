@@ -17,27 +17,22 @@ atau ./namafile.py
 58_Menu_Sederhana
 ![alt text](58_Menu_Sederhana/MenuSederhana.png)
 
-</br>
 
-59_Submenu</br>
+59_Submenu
 ![alt text](59_Submenu/submenu.png)
 
-</br>
 
-60_Checkmenu</br>
+60_Checkmenu
 ![alt text](60_Checkmenu/checkMenu.png)
 
-</br>
 
-61_Contextmenu</br>
+61_Contextmenu
 ![alt text](61_Contextmenu/Contextmenu.png)
 
-</br>
 
-62_Toolbar</br>
+62_Toolbar
 ![alt text](62_Toolbar/toolbar.png)
 
-</br>
 
-63_Gabungan_57-62</br>
+63_Gabungan_57-62
 ![alt text](63_Gabungan_57-62/63_Gabungan_57-62.png)
