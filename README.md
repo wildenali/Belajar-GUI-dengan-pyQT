@@ -10,5 +10,35 @@ atau ./namafile.py
 </br>
 </br>
 
-63_Gabungan_57-62.png</br>
+57_statusbar</br>
+![alt text](57_statusbar/StatusBar.png)
+
+</br>
+
+58_Menu_Sederhana</br>
+![alt text](58_Menu_Sederhana/MenuSederhana.png)
+
+</br>
+
+59_Submenu</br>
+![alt text](59_Submenu/submenu.png)
+
+</br>
+
+60_Checkmenu</br>
+![alt text](60_Checkmenu/checkMenu.png)
+
+</br>
+
+61_Contextmenu</br>
+![alt text](61_Contextmenu/Contextmenu.png)
+
+</br>
+
+62_Toolbar</br>
+![alt text](62_Toolbar/toolbar.png)
+
+</br>
+
+63_Gabungan_57-62</br>
 ![alt text](63_Gabungan_57-62/63_Gabungan_57-62.png)
