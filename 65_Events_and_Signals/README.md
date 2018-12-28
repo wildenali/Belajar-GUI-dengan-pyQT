@@ -9,3 +9,6 @@
 
 65_4_eventSender
 ![alt text](65_4_eventSender/65_4_eventSender.png)
+
+65_5_emittingSignals
+![alt text](65_5_emittingSignals/65_5_emittingSignals.png)
