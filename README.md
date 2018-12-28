@@ -10,10 +10,5 @@ atau ./namafile.py
 </br>
 </br>
 
-exit</br>
-![alt text](63_Gabungan_57-62/exit.png)
-
-</br>
-
 63_Gabungan_57-62.png</br>
-![alt text](63_Gabungan_57-62.png)
+![alt text](63_Gabungan_57-62/63_Gabungan_57-62.png)
