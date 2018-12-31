@@ -3,3 +3,6 @@
 
 66_2_ColorDialog
 ![alt text](66_2_ColorDialog/66_2_ColorDialog.png)
+
+66_3_QFontDialog
+![alt text](66_3_QFontDialog/66_3_QFontDialog.png)
