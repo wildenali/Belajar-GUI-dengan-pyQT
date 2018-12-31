@@ -9,3 +9,6 @@
 
 67_4_QLineEdit
 ![alt text](67_4_QLineEdit/67_4_QLineEdit.png)
+
+67_5_QSplitter
+![alt text](67_5_QSplitter/67_5_QSplitter.png)
