@@ -6,3 +6,6 @@
 
 67_3_QProgressBar
 ![alt text](67_3_QProgressBar/67_3_QProgressBar.png)
+
+67_4_QLineEdit
+![alt text](67_4_QLineEdit/67_4_QLineEdit.png)
