@@ -6,3 +6,6 @@
 
 66_3_QFontDialog
 ![alt text](66_3_QFontDialog/66_3_QFontDialog.png)
+
+66_4_QFileDialog
+![alt text](66_4_QFileDialog/66_4_QFileDialog.png)
